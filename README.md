@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yehia Yasser ElKord</h1>
+<h1 align="center">Hi 👋, I'm Yehia Yasser ElKord🧑‍💻</h1>
 <h3 align="center">A passionate Back-End Developer & Computer Science Student</h3>
 
 <p align="center">
@@ -9,6 +9,22 @@
   <a href="https://github.com/KoOrdy" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40" alt="GitHub logo" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="dotnet logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="laravel logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="nodejs logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="mysql logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo" />
 </p>
 
 ---
