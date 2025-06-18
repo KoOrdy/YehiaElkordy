@@ -1,63 +1,78 @@
-# Yehia Yasser ElKord
+<h1 align="center">Hi 👋, I'm Yehia Yasser ElKord</h1>
+<h3 align="center">A passionate Back-End Developer & Computer Science Student</h3>
 
-👨‍💻 Back-End Developer | 💡 Computer Science Student @ Helwan University  
-📍 Cairo, Egypt  
-📧 yheiaelkordy@gmail.com | 📞 +20 110 008 1834  
-🔗 [LinkedIn](https://linkedin.com/in/yehia-elkordy) | [GitHub](https://github.com/KoOrdy)
-
----
-
-## 🎯 Objective
-Back-End focused Computer Science senior seeking an internship to apply skills in .NET, Node.js, and Laravel to real-world backend systems. Passionate about building scalable APIs, designing secure architectures, and collaborating in agile teams to deliver high-quality software.
-
----
-
-## 🎓 Education
-**Helwan University** — B.Sc. in Computer Science (Software Engineering Track)  
-📅 2022 – 2026 | 🎯 GPA: 3.4 / 4.0  
-Relevant Courses: Data Structures, OOP, Software Engineering, DB Systems, Computer Networks
+<p align="center">
+  <a href="https://linkedin.com/in/yehia-elkordy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/KoOrdy" target="_blank">
+    <img src="https://img.shields.io/github/followers/KoOrdy?label=Follow&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
-## 💼 Experience
-
-### 🏢 Freelance Backend Developer – Shipping Company System  
-📅 May 2025 – Present  
-- Built RESTful API with .NET 9, handling 3 user roles and cutting manual tasks by 60%.  
-- Designed database schema and secured endpoints using JWT.  
-- Added real-time shipment tracking with SignalR.  
-- Deployed backend and tested 100% of endpoints via Postman.
+### 🎯 Objective
+💻 Back-End focused Computer Science senior seeking an internship to apply skills in **.NET**, **Node.js**, and **Laravel**. Passionate about scalable APIs, secure systems, and real-world solutions in agile environments.
 
 ---
 
-## 🧪 Projects
+### 🎓 Education
 
-### 🍽️ [Restaurant Management System](https://github.com/KoOrdy/Restaurant-Management-System)  
-- Scalable .NET 8 Web API with 3 roles (Admin, Manager, Customer)  
-- Real-time orders with SignalR & AI-based review summarization using FastAPI  
-- JWT, SMTP email verification, Role-based access
-
-### 🎬 [Real-Time Cinema Booking System](https://github.com/KoOrdy/Real-Time-Cinema)  
-- Live seat updates and conflict-free booking logic  
-- React frontend, Node.js backend
-
-### 📢 [Job Announcement Platform](https://github.com/KoOrdy/final_php)  
-- Laravel + Blade job board system with authentication and admin control
+**Helwan University**, Cairo  
+📅 2022 – 2026  
+🎓 B.Sc. in Computer Science (Software Engineering Track) – GPA: 3.4/4.0  
+📘 Courses: Data Structures, OOP, Software Engineering, DB Systems, Computer Networks
 
 ---
 
-## 📜 Certificates
-- **PHP Laravel Track – Mindset Training (90 hours)** (2024)  
-- **HCIA-AI V3.5 – Huawei Certified ICT Associate (AI)** (2025)  
-  _Completed 80 hours, achieved 80% on final project_
+### 💼 Experience
+
+**Freelance Backend Developer – Shipping Company System**  
+🗓️ May 2025 – Present  
+- Built RESTful API with .NET 9 for 3 user roles  
+- JWT-secured endpoints & real-time tracking via SignalR  
+- 100% tested endpoints with Postman
 
 ---
 
-## 🛠️ Skills
+### 🔥 Projects
 
-**Languages:** JavaScript (Node.js, Express), C, Java, Python, SQL, PHP  
-**Backend:** .NET 8 (Web API), JWT, Redis, SignalR, SMTP  
-**Databases:** SQL Server, PostgreSQL, MongoDB, MySQL  
-**Tools:** Git, GitHub, Postman, Swagger, VS Code  
-**Concepts:** REST APIs, MVC, Real-Time Communication, Caching  
-**Soft Skills:** Communication, Problem-Solving, Teamwork, Adaptability, Time Management
+#### 🍽️ [Restaurant Management System](https://github.com/KoOrdy/Restaurant-Management-System)
+- .NET 8 Web API | 3 user roles | 100+ endpoints  
+- SignalR for real-time orders | FastAPI for AI review summarization  
+- JWT & SMTP-secured
+
+#### 🎬 [Real-Time Cinema Booking System](https://github.com/KoOrdy/Real-Time-Cinema)
+- React frontend | Node.js + Express backend  
+- Live seat updates & smart booking logic
+
+#### 📢 [Job Announcement Platform](https://github.com/KoOrdy/final_php)
+- Laravel Blade UI | CRUD operations | Auth & Admin roles
+
+---
+
+### 📜 Certifications
+
+- ✅ **PHP Laravel Track – Mindset Training** (2024) – 90 hours  
+- ✅ **HCIA-AI V3.5 – Huawei Certified AI Associate** (2025) – 80 hours, 80% final score
+
+---
+
+### ⚙️ Skills
+
+- **Languages:** JavaScript, C, Java, Python, SQL, PHP  
+- **Backend:** .NET 8, Express.js, JWT, Redis, SignalR, SMTP  
+- **Databases:** SQL Server, PostgreSQL, MongoDB, MySQL  
+- **Tools:** Git, GitHub, Postman, Swagger, VS Code  
+- **Concepts:** REST APIs, MVC, Real-Time, Caching  
+- **Soft Skills:** Communication, Problem-Solving, Teamwork
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KoOrdy&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoOrdy&layout=compact&theme=tokyonight" height="160"/>
+</p>
