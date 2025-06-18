@@ -27,8 +27,26 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 I'm a senior Computer Science student at Helwan University  
+- 🔭 Currently working as a freelance backend developer  
+- 🚀 I love building real-time systems & exploring AI integrations  
+- 🧠 Always learning new backend frameworks & clean architecture practices  
+- 💬 Ask me about `.NET`, `Node.js`, `Laravel`, or anything backend!
+
+---
+
 ### 🎯 Objective
 💻 Back-End focused Computer Science senior seeking an internship to apply skills in **.NET**, **Node.js**, and **Laravel**. Passionate about scalable APIs, secure systems, and real-world solutions in agile environments.
+
+---
+
+### 🚀 Currently Learning
+
+- 🧪 Unit Testing & Test-Driven Development (TDD)
+- ☁️ Deploying .NET Web APIs on Azure
+- 🤖 AI Integration with FastAPI & NLP
 
 ---
 
@@ -82,3 +100,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KoOrdy&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoOrdy&layout=compact&theme=tokyonight" height="160"/>
 </p>
+
+---
+
+### 📫 Contact Me
+
+<p>
+  <a href="mailto:yheiaelkordy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yehia-elkordy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KoOrdy" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 😄 Fun Fact
+
+I drink too much coffee when debugging ☕, and I talk to my rubber duck when I’m stuck 🐥.
