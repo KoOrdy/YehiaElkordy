@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yehia-elkordy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+<!--     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /> -->
   </a>
   <a href="https://github.com/KoOrdy" target="_blank">
-    <img src="https://img.shields.io/github/followers/KoOrdy?label=Follow&style=for-the-badge" />
+<!--     <img src="https://img.shields.io/github/followers/KoOrdy?label=Follow&style=for-the-badge" /> -->
   </a>
 </p>
 
