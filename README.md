@@ -23,6 +23,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="mongodb logo" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git logo" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="postman logo" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" alt="swagger logo" />
 </p>
 
 ---
@@ -119,6 +123,3 @@
 
 ---
 
-### 😄 Fun Fact
-
-I drink too much coffee when debugging ☕, and I talk to my rubber duck when I’m stuck 🐥.
