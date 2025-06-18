@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yehia Yasser ElKord🧑‍💻</h1>
+<h1 align="center">Hi 👋, I'm Yehia Yasser ElKordy🧑‍💻</h1>
 <h3 align="center">A passionate Back-End Developer & Computer Science Student</h3>
 
 <p align="center">
@@ -29,15 +29,6 @@
 
 ### 🎯 Objective
 💻 Back-End focused Computer Science senior seeking an internship to apply skills in **.NET**, **Node.js**, and **Laravel**. Passionate about scalable APIs, secure systems, and real-world solutions in agile environments.
-
----
-
-### 🎓 Education
-
-**Helwan University**, Cairo  
-📅 2022 – 2026  
-🎓 B.Sc. in Computer Science (Software Engineering Track) – GPA: 3.4/4.0  
-📘 Courses: Data Structures, OOP, Software Engineering, DB Systems, Computer Networks
 
 ---
 
